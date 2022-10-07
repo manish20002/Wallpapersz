@@ -1,0 +1,23 @@
+button {
+    
+    border: 1px solid transparent;
+    outline: none;
+    background-color: black;
+    color: white;
+    padding: 10px 25px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.a{
+    text-decoration: none;
+}
+
+
+button:hover{
+    border-color: black;
+    background-color: aliceblue;
+    color: black;
+}

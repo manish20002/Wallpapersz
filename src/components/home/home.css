@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.head {
+    background-image: url(Bg1.JPG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 60vh;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    background-blend-mode: overlay;
+    align-items: center;
+}
+
+.head1 {
+    text-align: center;
+    color: blue;
+    text-justify: auto;
+    font-family: 'Courgette', cursive;
+    font-size: 60px;
+}
